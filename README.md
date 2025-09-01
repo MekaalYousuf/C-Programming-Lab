@@ -16,6 +16,14 @@ This is my repository created for my PF Lab #3 Tasks.
 
 **C Programming Fundamentals** *Fall 2025* ~~this was a mistake~~  
 
+### Task List
+
+- [x] Create repository  
+- [x] Add PROFILE.md  
+- [x] Edit README.md  
+- [ ] Write first C program  
+- [ ] Push more C programs  
+
 ### Example Code
 ```bash
 git status
