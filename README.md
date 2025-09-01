@@ -10,7 +10,8 @@ This is my repository created for my PF Lab#3 Tasks
 **C Programming Fundamentals**
 *Fall 2025* 
 ~~this was a mistake~~ 
-```bash git status``` 
+```bash
+git status
 ## Task List
 - [x] Create repository   
 - [x] Add PROFILE.md  
